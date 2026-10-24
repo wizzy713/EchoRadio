@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+.idea/
+*.iml
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Downloaded by setup.sh (third-party, own licences)
+app/libs/*.aar
+app/src/main/jniLibs/
+app/src/main/assets/tts/

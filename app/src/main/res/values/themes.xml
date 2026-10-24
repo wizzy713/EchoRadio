@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EchoRadio" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/dj</item>
+        <item name="colorOnPrimary">@color/fg</item>
+        <item name="colorSecondary">@color/dj</item>
+        <item name="colorSurface">@color/panel</item>
+        <item name="colorOnSurface">@color/fg</item>
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/dj_deep</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+    </style>
+
+    <style name="Label">
+        <item name="android:textColor">@color/muted</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0.08</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Panel">
+        <item name="android:background">@drawable/bg_panel</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="CtrlIcon">
+        <item name="android:layout_width">52dp</item>
+        <item name="android:layout_height">52dp</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="tint">@color/fg</item>
+    </style>
+</resources>

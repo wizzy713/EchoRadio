@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#121212</color>
+    <color name="panel">#181818</color>
+    <color name="panel2">#282828</color>
+    <color name="line">#333333</color>
+    <color name="fg">#FFFFFF</color>
+    <color name="muted">#B3B3B3</color>
+    <color name="dj">#3D7BFF</color>
+    <color name="dj_deep">#0B1E5B</color>
+    <color name="dj_glow">#3FC5F0</color>
+    <color name="amber">#3D7BFF</color>
+    <color name="amber_ink">#FFFFFF</color>
+    <color name="onair">#3FC5F0</color>
+    <color name="scrim">#99000000</color>
+</resources>
